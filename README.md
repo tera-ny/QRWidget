@@ -1,4 +1,5 @@
 # QRWidget
+Swift100% Application!
 
 ## About it
 SwiftUI sample app that allows you to store QR codes in CoreData and use them through a widget
