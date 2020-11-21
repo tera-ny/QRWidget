@@ -19,4 +19,4 @@ SwiftUI sample app that allows you to store QR codes in CoreData and use them th
 </p>
 
 ## Architecture
-<img src="https://i.gyazo.com/514bd0f21d9b1df321cb9e4bac642cd5.jpg" alt="Image from Gyazo" width="100%"/>
+<img src="https://i.gyazo.com/ed8767d4cf24f8dc39d1c1aae315fda8.jpg" alt="Image from Gyazo" width="100%"/>
